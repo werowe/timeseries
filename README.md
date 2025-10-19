@@ -33,4 +33,4 @@ This Jupyter notebook loads and processes weather time series data, prepares it 
 - Builds an LSTM (Long Short-Term Memory) neural network with Keras to learn patterns in the input weather sequences and predict future temperature.
 - Trains the network for 10 epochs, saving the best model using validation MAE.
 
-#### 9
+ 
